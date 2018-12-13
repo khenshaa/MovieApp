@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7293117503c34cd13801dbc25bdfdf53b01ea49f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_7d43503867c566a22fb8f08b5c2301ab5b77534c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_94b2455f4c68bcd88ea5611272bc6019f3ece3b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_b0c91f88227e3947945c3fc809cb1d2065ba7ee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_69072d5986479c54849be0dc64401afa472be59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_4528787208b2cdb52c6c471a4edb5680b5a4a2d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/.android/build-cache/866fdddb1374dacea68b8c729fdab1d0c1260fb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79d7bd173807c1eb701d411f4500321b309d1d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4c210a4fbc78fe4b69b542f2f09b7f5dbf37d429">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f6df3ff46a38eb28643b8f9958cced5154acd16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khenshaa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/khenshaa/Documents/IAK Batch 3/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_a83a1ca7e295bac48afb5c3527922acb7a3f4335/classes.dex" />
+    </item>
+
+</items>
